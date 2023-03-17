@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="app_name">MainShoppingPage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_user">Hello blank fragment</string>
+    <string name="phone">phone</string>
+    <string name="drink">饮料</string>
+
+    <string name="text">文字</string>
+    <string name="hello">hello</string>
+    <string name="snack">零食</string>
+    <string name="lottery">抽奖</string>
+    <string name="get_goods">取货</string>
+    <string name="put_goods">入仓</string>
+    <string name="happy">权益</string>
+    <string name="get_my_good">取货</string>
+    <string name="black_shack">黑鲨手机</string>
+    <string name="so_good">性能杠杠滴</string>
+    <string name="good_type">128g+16g 高级黑</string>
+    <string name="amb_unit">￥</string>
+    <string name="_2000_00">2000.00</string>
+    <string name="_1000">库存 1000</string>
+    <string name="todo">TODO</string>
+    <string name="title">我是标题</string>
+    <string name="content">这是内容</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
